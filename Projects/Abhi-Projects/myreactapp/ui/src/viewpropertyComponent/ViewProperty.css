@@ -1,0 +1,21 @@
+#catMain {
+  height: auto;
+  width: 600px;
+  background-color: yellow;
+}
+
+.catpart {
+  margin: 10px;
+  /* background-color: yellowgreen; */
+  float: left;
+}
+
+.about .about-box a:hover {
+  background-color: none;
+  border: black;
+}
+
+.about .about-box a {
+  background-color: none;
+  border: black;
+}

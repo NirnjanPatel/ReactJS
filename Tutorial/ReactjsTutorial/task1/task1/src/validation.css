@@ -1,0 +1,10 @@
+.errorMsg {
+  color: red;
+  font-weight: 500;
+}
+.sh-img {
+  height: 22px;
+}
+.sh-field{
+    display: flex;
+}

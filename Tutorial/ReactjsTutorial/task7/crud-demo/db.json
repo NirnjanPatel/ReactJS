@@ -1,0 +1,25 @@
+{
+  "studentDetails": [
+    {
+      "id": 1,
+      "firstName": "Nirnjan",
+      "lastName": "Patel",
+      "email": "Devnirnjanpatel@gmail.com",
+      "mobileNumber": 6263274848
+    },
+    {
+      "id": 2,
+      "firstName": "Virat",
+      "lastName": "Kohli",
+      "email": "viratkohli@gmail.com",
+      "mobileNumber": 6369274532
+    },
+    {
+      "id": 3,
+      "firstName": "Elon",
+      "lastName": "Musk",
+      "email": "elonmusk@gmail.com",
+      "mobileNumber": 6860283643
+    }
+  ]
+}

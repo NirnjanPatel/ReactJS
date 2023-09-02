@@ -1,0 +1,32 @@
+<!-- Here is an example using if / else and ternery operators -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+</head>
+<body>
+        <h1 id="demo"></h1>
+        <p>Change authenticated to false to see changes.</p>
+
+    <script>
+        function renderApp(){
+            document.getElementById("demo").innerHTML="Welcome!";
+        }
+        function renderLogin(){
+            document.getElementById("demo").innerHTML="Please Login";
+        }
+        let authenticated=true;
+
+        // without ternery operators
+        // if(authenticated){
+        //     renderApp();
+        // }
+        // else{
+        //     renderLogin();
+        // }
+
+        // using ternery operators because jsx removed if else statements
+        authenticated ? renderApp() : renderLogin();
+    </script>
+</body>
+</html>

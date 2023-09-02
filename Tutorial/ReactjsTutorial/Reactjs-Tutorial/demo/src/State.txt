@@ -1,0 +1,3 @@
+React State
+------------
+The state is an updatable structure that is used to contain data or information about the component.

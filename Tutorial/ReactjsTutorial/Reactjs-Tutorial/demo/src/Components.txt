@@ -1,0 +1,18 @@
+React Components
+-----------------
+two types of components. They are - 
+1.Functional Components
+------------------------
+function WelcomeMessage(props) {  
+  return <h1>Welcome to the , {props.name}</h1>;  
+}  
+
+2.Class Components
+-------------------
+class MyComponent extends React.Component {  
+  render() {  
+    return (  
+      <div>This is main component.</div>  
+    );  
+  }  
+}

@@ -1,0 +1,7 @@
+.navbar-dark .navbar-nav .nav-link{
+    color: white;
+    font-size: 20px;
+}
+.navbar-dark .navbar-nav .nav-link:hover{
+    color: rgb(8, 143, 211);
+}

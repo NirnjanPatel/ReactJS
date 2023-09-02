@@ -1,0 +1,15 @@
+.nav-item {
+  font-weight: 500;
+  color: black;
+  font-size: 17px;
+}
+
+.nav-item{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-weight: 500;
+    outline: none;
+    border: none;
+    text-shadow: none;
+    font-style: normal;
+}
